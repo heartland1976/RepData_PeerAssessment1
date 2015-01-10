@@ -1,9 +1,15 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Jeroen Remmerswaal"
+date: "10 Jan 2015"
 output: 
   html_document:
     keep_md: true
 ---
+
+This is an R Markdown document, describing the reproducible research for Peer Assessment 1 for the Reproducible Research Course for the Data Science Specialization.
+
+The steps for the Assessment are laid out below and are making use of literate programming by embedding R code in this document.
 
 
 ## Loading and preprocessing the data
